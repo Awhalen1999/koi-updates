@@ -1,0 +1,7 @@
+[
+  {
+    "version": "0.1.0",
+    "date": "2026-11-06",
+    "notes": "The first beta of Koi.\n- The window is frosted glass, calm and right at home on macOS\n- Horizontal tabs are back, in a toolbar designed to take less of your screen and still feel roomy\n- Connecting an agent takes a click, and it works in its own folder while you keep browsing\n- Developer Mode gives web developers extra tools and easier access to the usual ones\n- Built on Firefox, so your passwords, bookmarks and extensions carry over when you sign in\n- Drag one tab onto another to make a folder\n- ⇧⌘E shows every open tab at once\n- Private windows are violet\n- No telemetry, nothing to learn\n- Koi updates itself\nRequires a Mac with Apple silicon."
+  }
+]

@@ -9,3 +9,6 @@ where to download its update, which is attached to that release on GitHub.
 [`scripts/release.sh`](https://github.com/Awhalen1999/koi/blob/main/scripts/release.sh)
 in Koi's repo writes it as `dist/update.xml`; it goes here once the release
 is published.
+
+`changelog.json` is every release's notes, newest first, which
+[koi.surf/changelog](https://koi.surf/changelog) reads; `_headers` lets it.

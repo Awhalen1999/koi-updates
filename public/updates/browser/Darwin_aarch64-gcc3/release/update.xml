@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.2.0" appVersion="0.2.0" platformVersion="157.0" buildID="20261111204540">
-    <patch type="complete" URL="https://github.com/Awhalen1999/koi/releases/download/v0.2.0/koi.mar" hashFunction="sha512" hashValue="5d3ed3b83cda82a48a06de58237764e6e98e345e393f6aef15f5f123d5ed432d88550d857a238b2ccd71005433378b79e20a5835e1a9dc50fd29fa528427c034" size="76306468"/>
+  <update type="minor" displayVersion="0.3.0" appVersion="0.3.0" platformVersion="157.0" buildID="20261118224423">
+    <patch type="complete" URL="https://github.com/Awhalen1999/koi/releases/download/v0.3.0/koi.mar" hashFunction="sha512" hashValue="a7aa0ef34eebc85c41dfba0c3d9eca5e3e4c820f7a51428c4458af3faf03cfa38107b1ad4a091d1cd13fe51bb0b9e4d842636720a3f65c9b8bc0d772493819d1" size="76300888"/>
   </update>
 </updates>

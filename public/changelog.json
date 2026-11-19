@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.3.0",
+    "date": "2026-11-18",
+    "notes": "A tidier window.\n- A softer, more rounded look for tabs, buttons and panels\n- The glass is darker, so tabs and buttons are easier to read on any wallpaper\n- One spacing runs through the whole window\n- Tooltips match the rest of the window\n- Closing a folder moves you to the nearest tab\n- A calmer install window"
+  },
+  {
     "version": "0.2.0",
     "date": "2026-11-11",
     "notes": "A new look for the whole window.\n- Tabs sit above the toolbar, and the selected tab runs straight into it\n- The toolbar and the empty tab are frosted glass too\n- Bookmarks on the empty tab show their names\n- Everything feels faster and easier to read\n- A new app icon and install window"

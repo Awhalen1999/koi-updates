@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.3.1",
+    "date": "2026-11-21",
+    "notes": "Small glass opacity tweak."
+  },
+  {
     "version": "0.3.0",
     "date": "2026-11-18",
     "notes": "A tidier window.\n- A softer, more rounded look for tabs, buttons and panels\n- The glass is darker, so tabs and buttons are easier to read on any wallpaper\n- One spacing runs through the whole window\n- Tooltips match the rest of the window\n- Closing a folder moves you to the nearest tab\n- A calmer install window"
